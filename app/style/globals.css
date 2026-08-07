@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "./ea-sports-cruyff-sans/stylesheet.css";
+
+:root {
+  --background: #ffffff;
+  --foreground: #1c2714;
+}
+
+@theme {
+  --color-woodland: #344A24;
+  --color-celery: #B2C953;
+  --color-sushi: #8EA941;
+  --color-battleship: #849C6C;
+  --font-sans: 'Cruyff Sans', sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Cruyff Sans', sans-serif;
+}
+
+

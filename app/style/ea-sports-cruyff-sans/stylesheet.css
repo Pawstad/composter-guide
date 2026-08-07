@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Cruyff Sans';
+    src: url('CruyffSans-Medium.eot');
+    src: local('Cruyff Sans Medium'), local('CruyffSans-Medium'),
+        url('CruyffSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSans-Medium.woff2') format('woff2'),
+        url('CruyffSans-Medium.woff') format('woff'),
+        url('CruyffSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Mono';
+    src: url('CruyffSansMono-Bold.eot');
+    src: local('Cruyff Sans Mono Bold'), local('CruyffSansMono-Bold'),
+        url('CruyffSansMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansMono-Bold.woff2') format('woff2'),
+        url('CruyffSansMono-Bold.woff') format('woff'),
+        url('CruyffSansMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Expanded';
+    src: url('CruyffSansExpanded-Heavy.eot');
+    src: local('Cruyff Sans Expanded Heavy'), local('CruyffSansExpanded-Heavy'),
+        url('CruyffSansExpanded-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansExpanded-Heavy.woff2') format('woff2'),
+        url('CruyffSansExpanded-Heavy.woff') format('woff'),
+        url('CruyffSansExpanded-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Mono';
+    src: url('CruyffSansMono-Medium.eot');
+    src: local('Cruyff Sans Mono Medium'), local('CruyffSansMono-Medium'),
+        url('CruyffSansMono-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansMono-Medium.woff2') format('woff2'),
+        url('CruyffSansMono-Medium.woff') format('woff'),
+        url('CruyffSansMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Condensed';
+    src: url('CruyffSansCondensed-Regular.eot');
+    src: local('Cruyff Sans Condensed Regular'), local('CruyffSansCondensed-Regular'),
+        url('CruyffSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansCondensed-Regular.woff2') format('woff2'),
+        url('CruyffSansCondensed-Regular.woff') format('woff'),
+        url('CruyffSansCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Condensed';
+    src: url('CruyffSansCondensed-Medium.eot');
+    src: local('Cruyff Sans Condensed Medium'), local('CruyffSansCondensed-Medium'),
+        url('CruyffSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansCondensed-Medium.woff2') format('woff2'),
+        url('CruyffSansCondensed-Medium.woff') format('woff'),
+        url('CruyffSansCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans';
+    src: url('CruyffSans-Regular.eot');
+    src: local('Cruyff Sans Regular'), local('CruyffSans-Regular'),
+        url('CruyffSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSans-Regular.woff2') format('woff2'),
+        url('CruyffSans-Regular.woff') format('woff'),
+        url('CruyffSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Mono';
+    src: url('CruyffSansMono-Regular.eot');
+    src: local('Cruyff Sans Mono Regular'), local('CruyffSansMono-Regular'),
+        url('CruyffSansMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansMono-Regular.woff2') format('woff2'),
+        url('CruyffSansMono-Regular.woff') format('woff'),
+        url('CruyffSansMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans';
+    src: url('CruyffSans-Bold.eot');
+    src: local('Cruyff Sans Bold'), local('CruyffSans-Bold'),
+        url('CruyffSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSans-Bold.woff2') format('woff2'),
+        url('CruyffSans-Bold.woff') format('woff'),
+        url('CruyffSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans';
+    src: url('CruyffSans-Light.eot');
+    src: local('Cruyff Sans Light'), local('CruyffSans-Light'),
+        url('CruyffSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSans-Light.woff2') format('woff2'),
+        url('CruyffSans-Light.woff') format('woff'),
+        url('CruyffSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cruyff Sans Mono';
+    src: url('CruyffSansMono-Light.eot');
+    src: local('Cruyff Sans Mono Light'), local('CruyffSansMono-Light'),
+        url('CruyffSansMono-Light.eot?#iefix') format('embedded-opentype'),
+        url('CruyffSansMono-Light.woff2') format('woff2'),
+        url('CruyffSansMono-Light.woff') format('woff'),
+        url('CruyffSansMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

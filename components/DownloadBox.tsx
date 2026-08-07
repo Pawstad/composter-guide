@@ -31,7 +31,7 @@ export default function DownloadBox() {
           </div>
 
           <a
-            href="/guide.pdf"
+            href="/komposter-manualbook.pdf"
             download="Panduan-Composter-Pelemrejo.pdf"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-celery text-woodland font-extrabold text-sm hover:bg-[#c4dc5d] transition-all duration-300 shadow-md shrink-0 active:scale-95"
           >

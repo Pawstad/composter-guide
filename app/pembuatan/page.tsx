@@ -26,7 +26,7 @@ export default function PembuatanPage() {
             pentingnya tidak menyia-nyiakan sumber daya dan menghargai setiap hal.
           </p>
         </div>
-        <VideoBox url="https://www.youtube.com/watch?v=jNQXAC9IVRw" />
+        <VideoBox url="https://youtu.be/uogMPonLxwI" />
       </section>
     </main>
   );

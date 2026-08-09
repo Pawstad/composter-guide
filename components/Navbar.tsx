@@ -14,6 +14,7 @@ export default function Navbar() {
       <div className="inline-flex p-1.5 rounded-full bg-white text-slate-200 backdrop-blur-md shadow-lg shadow-woodland/20 border border-sushi/30">
         <Link
           href="/pembuatan"
+          scroll={false}
           className={`flex items-center gap-2 px-6 py-2.5 rounded-full font-bold text-sm transition-all duration-300 ${isPembuatanActive
             ? "bg-celery text-woodland shadow-md shadow-celery/20"
             : "text-black hover:text-woodland hover:bg-celery/10"
@@ -37,6 +38,7 @@ export default function Navbar() {
 
         <Link
           href="/penggunaan"
+          scroll={false}
           className={`flex items-center gap-2 px-6 py-2.5 rounded-full font-bold text-sm transition-all duration-300 ${isPenggunaanActive
             ? "bg-celery text-woodland shadow-md shadow-celery/20"
             : "text-black hover:text-woodland hover:bg-celery/10"

@@ -29,7 +29,7 @@ Composter Guide Website adalah panduan digital berbasis web statis (Next.js, di-
 
 ## 5. Non-Functional Requirement
 
-- **Performance:** halaman ringan dan cepat dimuat, mempertimbangkan kemungkinan koneksi internet desa yang terbatas.
+mempertimbangkan kemungkinan koneksi internet desa yang terbatas.
 - **Accessibility:** kontras warna dan ukuran teks cukup jelas terbaca oleh pengguna lintas usia, termasuk warga yang kurang terbiasa dengan teknologi.
 - **Maintainability:** struktur komponen modular/reusable, dengan data konten terpisah dari komponen (`data/steps.ts`) agar mudah diperbarui tanpa mengubah kode komponen.
 - **Hosting & Cost:** menggunakan platform hosting gratis tanpa kebutuhan perawatan server berkelanjutan (Vercel).
